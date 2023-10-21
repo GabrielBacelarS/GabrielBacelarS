@@ -7,7 +7,7 @@
 
 <div>
 <img heigth="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBacelarS&layout=compact&theme=dark&hide_border=true"/>
-  <img align="right" alt="gif" height="300" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+  <img align="right" alt="gif" height="300" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 </div>
   
 ##
