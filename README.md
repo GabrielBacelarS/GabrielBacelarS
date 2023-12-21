@@ -1,9 +1,6 @@
-## Óla Mundo. Eu me chamo Gabriel Bacelar e sou Estudante de programação.
+## Developer NODE/PHP.
 
 
-- 🧑 Gosto de Esportes
-- 👨‍🎓 Ciência da Computação
-- 👩‍💻 Programação com JavaScript
 
 <div>
 <img heigth="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBacelarS&layout=compact"/>
