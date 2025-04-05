@@ -1,4 +1,4 @@
-# Gabriel Bacelar - Developer & CEO da AgileSaaS  
+# Gabriel Bacelar - Developer || Tech_Leader
 
 Sou desenvolvedor pleno com experiência sólida em **TypeScript**, tanto no **backend** quanto no **frontend**, além de atuar com **Flutter** para desenvolvimento mobile. Atualmente, lidero a **AgileSaaS**, onde entregamos soluções personalizadas para empresas que buscam excelência em tecnologia e inovação.  
 
