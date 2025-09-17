@@ -6,9 +6,10 @@ Tenho foco em **escalabilidade, arquitetura limpa e automação de processos**, 
 💡 Atualmente lidero projetos de **SaaS, automação e integrações**.  
 
 <div>
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel&layout=compact&theme=tokyonight" />
-  <img align="right" alt="gif" height="280" width="310" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+  <img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=Gabriel&show_icons=true&theme=tokyonight" />
+  <img align="right" height="180" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
 </div>
+
 
 ---
 
