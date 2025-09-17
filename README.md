@@ -36,13 +36,22 @@ const gabrielBacelar = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBacelarS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBacelarS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <!-- Opção 1: URLs alternativas -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielBacelarS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielBacelarS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielBacelarS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=GabrielBacelarS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<!-- Se ainda não funcionar, use estas alternativas: -->
+<!-- 
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielBacelarS&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielBacelarS&theme=tokyonight"/>
+</div>
+-->
 
 ## 🛠️ Tech Stack
 
